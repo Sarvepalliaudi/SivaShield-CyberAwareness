@@ -1,0 +1,5 @@
+{
+  "name": "SivaShield – Offline Cyber Awareness Tool",
+  "description": "An interactive, offline-first web application designed to educate users on cybersecurity threats through practical simulations. It covers phishing, password strength, ransomware, and more, with support for both English and Tamil languages.",
+  "requestFramePermissions": []
+}
